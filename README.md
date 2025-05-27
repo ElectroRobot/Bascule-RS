@@ -1,6 +1,6 @@
 # Bascule RS
 
-Ce repository enregistre l'ensemble du projet OPSICE créé pour le TD proposé par Electro Robot. 
+Ce repository enregistre l'ensemble du projet QPSICE créé pour le TD proposé par Electro Robot. 
 Plus de détails, vous pouvez vous faire référence à : [La bascule RS (ou bascule SR pour Set-Reset)](https://electro-robot.com/les-activites/travaux-diriges-la-bascule-rs)
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
